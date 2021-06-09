@@ -1,0 +1,13 @@
+C:\Users\Kuba\Desktop\Enigma-master\bin\Debug\netcoreapp3.1\Enigma.exe
+C:\Users\Kuba\Desktop\Enigma-master\bin\Debug\netcoreapp3.1\Enigma.deps.json
+C:\Users\Kuba\Desktop\Enigma-master\bin\Debug\netcoreapp3.1\Enigma.runtimeconfig.json
+C:\Users\Kuba\Desktop\Enigma-master\bin\Debug\netcoreapp3.1\Enigma.runtimeconfig.dev.json
+C:\Users\Kuba\Desktop\Enigma-master\bin\Debug\netcoreapp3.1\Enigma.dll
+C:\Users\Kuba\Desktop\Enigma-master\bin\Debug\netcoreapp3.1\Enigma.pdb
+C:\Users\Kuba\Desktop\Enigma-master\obj\Debug\netcoreapp3.1\Enigma.csproj.AssemblyReference.cache
+C:\Users\Kuba\Desktop\Enigma-master\obj\Debug\netcoreapp3.1\Enigma.AssemblyInfoInputs.cache
+C:\Users\Kuba\Desktop\Enigma-master\obj\Debug\netcoreapp3.1\Enigma.AssemblyInfo.cs
+C:\Users\Kuba\Desktop\Enigma-master\obj\Debug\netcoreapp3.1\Enigma.csproj.CoreCompileInputs.cache
+C:\Users\Kuba\Desktop\Enigma-master\obj\Debug\netcoreapp3.1\Enigma.dll
+C:\Users\Kuba\Desktop\Enigma-master\obj\Debug\netcoreapp3.1\Enigma.pdb
+C:\Users\Kuba\Desktop\Enigma-master\obj\Debug\netcoreapp3.1\Enigma.genruntimeconfig.cache
